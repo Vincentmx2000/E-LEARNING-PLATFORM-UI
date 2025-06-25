@@ -40,4 +40,16 @@ It reflects a solid grasp of modern front-end development and a keen eye for eff
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/eca1a1cc-9ea4-4f3d-8ab3-950cdb82eee5)
+![Image](https://github.com/user-attachments/assets/96f569f8-f9b6-4cc7-ad83-d9c1c330a7a7)
+![Image](https://github.com/user-attachments/assets/530f843e-8acb-4d07-9a34-d3239d8f07bb)
+![Image](https://github.com/user-attachments/assets/b283b7a4-f4e4-43b0-8f83-7eb8c44149e7)
+![Image](https://github.com/user-attachments/assets/1ddb3e67-ff42-4d3e-8ae9-01064b67110d)
+![Image](https://github.com/user-attachments/assets/ed4cd140-fc20-4826-9af7-1769565c4263)
+![Image](https://github.com/user-attachments/assets/54b8d45e-77f2-4599-b529-21e97b534b06)
+![Image](https://github.com/user-attachments/assets/28197d45-09b6-4ef0-b595-41d0cf04681f)
+![Image](https://github.com/user-attachments/assets/8facede0-555c-477e-94a3-bf6383e83bf5)
+![Image](https://github.com/user-attachments/assets/2a5f0bd5-b6de-48b5-ae0e-5d22042ecf68)
+![Image](https://github.com/user-attachments/assets/503a7ea3-120f-476b-8a15-77d2865c4834)
+![Image](https://github.com/user-attachments/assets/232cfc7a-f6a6-4047-b662-388b7f30e438)
 
